@@ -1,0 +1,42 @@
+{
+    "data": {
+        "duration": 150,
+        "groupId": "6160fcdd3a082706e7007f69",
+        "ieltsId": "6160fe323a082706e700800b",
+        "name": "Set 3 - Test 14",
+        "idLog": "61653da68e10ce04e02e948c",
+        "sectionListening": {
+            "duration": 30,
+            "ieltsId": "6160fe323a082706e700800b",
+            "status": 2,
+            "totalOptionQuestion": 40,
+            "totalQuestion": 11,
+            "type": 1
+        },
+        "sectionReading": {
+            "duration": 60,
+            "ieltsId": "6160fe323a082706e700800b",
+            "status": 2,
+            "totalOptionQuestion": 40,
+            "totalQuestion": 11,
+            "type": 2
+        },
+        "sectionWriting": {
+            "duration": 60,
+            "ieltsId": "6160fe323a082706e700800b",
+            "status": 2,
+            "totalOptionQuestion": 2,
+            "totalQuestion": 2,
+            "type": 3
+        },
+        "status": 2,
+        "statusIELTS": 2,
+        "subjectId": "IELTS",
+        "totalQuestion": 82,
+        "typeSectionNow": null,
+        "thumbnail": null
+    },
+    "totalRecords": 0,
+    "message": null,
+    "status": 1
+}

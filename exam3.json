@@ -1,0 +1,129 @@
+{
+    "data": {
+        "data": [
+            {
+                "data": [
+                    {
+                        "dataMaterial": null,
+                        "dataStandard": {
+                            "contentMedia": null,
+                            "index": 0,
+                            "indexStart": 0,
+                            "indexEnd": 0,
+                            "indexTitle": 0,
+                            "indexMaterial": 0,
+                            "idMaterial": "000000000000000000000000",
+                            "groupMaterial": null,
+                            "numberQuestion": 467623,
+                            "totalOption": 1,
+                            "partNumber": 1,
+                            "question": "<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"text-autospace:none\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should spend about 20 minutes on this task. </span></span></i></span></span></span></span></p>\r\n\r\n<p style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"text-autospace:none\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\"></span></span></span></span></span></p>\r\n\r\n<p><b>The bar chart below shows the US&rsquo; top ten processed food export markets for last&nbsp;year and six years ago.&nbsp;</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b>Summarise the information by selecting and reporting the main features, and&nbsp;make comparisons where relevant.</b></p>\r\n\r\n<p style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should write at least 150 words.</span></span></i></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: center;\"><b id=\"docs-internal-guid-e1c1a66e-7fff-421c-b011-b9738e21a4c0\">Top 10 US Processed Food Export Markets</b></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: center;\"><b id=\"docs-internal-guid-e1c1a66e-7fff-421c-b011-b9738e21a4c0\">(for last year and 6 years ago)</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img class=\"w-100\" src=\"https://mathplay-library.s3.amazonaws.com/IELTS/IELTSblog/Images/WritingTestImagesAcademic/set3_academic_writing_test14_task1.jpg\" /></p>\r\n",
+                            "questionUrlSpeech": null,
+                            "rightAnswer": null,
+                            "statusStep": 1,
+                            "stepId": "629dc7c8d414092b9748af08",
+                            "template": 0,
+                            "typeAnswer": 3,
+                            "typeContentMedia": null,
+                            "typeView": 0,
+                            "userImageAnswer": null,
+                            "userOptionId": [],
+                            "userOptionText": null
+                        },
+                        "indexEnd": 0,
+                        "indexStart": 0,
+                        "partNumber": 1,
+                        "totalQuestion": 1,
+                        "typeData": 0
+                    }
+                ],
+                "indexEnd": 0,
+                "indexStart": 0,
+                "partNumber": 1,
+                "totalQuestion": 1
+            },
+            {
+                "data": [
+                    {
+                        "dataMaterial": null,
+                        "dataStandard": {
+                            "contentMedia": null,
+                            "index": 1,
+                            "indexStart": 1,
+                            "indexEnd": 1,
+                            "indexTitle": 1,
+                            "indexMaterial": 0,
+                            "idMaterial": "000000000000000000000000",
+                            "groupMaterial": null,
+                            "numberQuestion": 467626,
+                            "totalOption": 1,
+                            "partNumber": 2,
+                            "question": "<p class=\"Pa0\" style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"font-family:Arial,sans-serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should spend about 40 minutes on this task.</span></span></i></span></span></span></p>\r\n\r\n<p class=\"Default\" style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:black\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">Write about the following topic: </span></span></i></span></span></span></span></p>\r\n\r\n<p class=\"Default\" style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p class=\"Default\" style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:black\"><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\"></span></span></span></span></span></span></p>\r\n\r\n<p><b>In some countries, private cars are now banned from certain city centres.&nbsp;</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b>What are the advantages of such a system and do you feel that this is something that most cities should adopt?</b></p>\r\n\r\n<p style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">Give reasons for your answer and include any relevant examples from your knowledge or experience. </span></span></i></span></span></p>\r\n\r\n<p style=\"margin-left:.5in; margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"></span></span></span></p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should write at least 250 words.</span></span></i></span></span></p>\r\n\r\n<div id=\"gtx-trans\" style=\"position: absolute; left: 557px; top: 143.4px;\">\r\n<div class=\"gtx-trans-icon\">&nbsp;</div>\r\n</div>\r\n",
+                            "questionUrlSpeech": null,
+                            "rightAnswer": null,
+                            "statusStep": 1,
+                            "stepId": "629dc7c8d414092b9748af09",
+                            "template": 0,
+                            "typeAnswer": 3,
+                            "typeContentMedia": null,
+                            "typeView": 0,
+                            "userImageAnswer": null,
+                            "userOptionId": [],
+                            "userOptionText": null
+                        },
+                        "indexEnd": 1,
+                        "indexStart": 1,
+                        "partNumber": 2,
+                        "totalQuestion": 1,
+                        "typeData": 0
+                    }
+                ],
+                "indexEnd": 1,
+                "indexStart": 1,
+                "partNumber": 2,
+                "totalQuestion": 1
+            }
+        ],
+        "duration": 60,
+        "endTime": 1654516464,
+        "endTimeSection": 1654511209,
+        "groupId": "6160fcdd3a082706e7007f69",
+        "ieltsId": "6160fe323a082706e700800b",
+        "name": "Bài viết",
+        "questions": [
+            {
+                "index": 0,
+                "indexTitle": 0,
+                "partNumber": 1,
+                "status": 1,
+                "stepId": "629dc7c8d414092b9748af08",
+                "resultCheck": null,
+                "idMaterial": "000000000000000000000000",
+                "title": "<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"text-autospace:none\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should spend about 20 minutes on this task. </span></span></i></span></span></span></span></p>\r\n\r\n<p style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"text-autospace:none\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\"></span></span></span></span></span></p>\r\n\r\n<p><b>The bar chart below shows the US&rsquo; top ten processed food export markets for last&nbsp;year and six years ago.&nbsp;</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b>Summarise the information by selecting and reporting the main features, and&nbsp;make comparisons where relevant.</b></p>\r\n\r\n<p style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should write at least 150 words.</span></span></i></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: center;\"><b id=\"docs-internal-guid-e1c1a66e-7fff-421c-b011-b9738e21a4c0\">Top 10 US Processed Food Export Markets</b></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: center;\"><b id=\"docs-internal-guid-e1c1a66e-7fff-421c-b011-b9738e21a4c0\">(for last year and 6 years ago)</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img class=\"w-100\" src=\"https://mathplay-library.s3.amazonaws.com/IELTS/IELTSblog/Images/WritingTestImagesAcademic/set3_academic_writing_test14_task1.jpg\" /></p>\r\n"
+            },
+            {
+                "index": 1,
+                "indexTitle": 1,
+                "partNumber": 2,
+                "status": 1,
+                "stepId": "629dc7c8d414092b9748af09",
+                "resultCheck": null,
+                "idMaterial": "000000000000000000000000",
+                "title": "<p class=\"Pa0\" style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"font-family:Arial,sans-serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should spend about 40 minutes on this task.</span></span></i></span></span></span></p>\r\n\r\n<p class=\"Default\" style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:black\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">Write about the following topic: </span></span></i></span></span></span></span></p>\r\n\r\n<p class=\"Default\" style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p class=\"Default\" style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"line-height:12.05pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:black\"><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\"></span></span></span></span></span></span></p>\r\n\r\n<p><b>In some countries, private cars are now banned from certain city centres.&nbsp;</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b>What are the advantages of such a system and do you feel that this is something that most cities should adopt?</b></p>\r\n\r\n<p style=\"margin:0in\">&nbsp;</p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">Give reasons for your answer and include any relevant examples from your knowledge or experience. </span></span></i></span></span></p>\r\n\r\n<p style=\"margin-left:.5in; margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><span lang=\"EN-AU\" style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"></span></span></span></p>\r\n\r\n<p style=\"margin:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Book Antiqua&quot;,serif\"><i><span style=\"font-family:&quot;Segoe UI&quot;,sans-serif\"><span style=\"color:#221e1f\">You should write at least 250 words.</span></span></i></span></span></p>\r\n\r\n<div id=\"gtx-trans\" style=\"position: absolute; left: 557px; top: 143.4px;\">\r\n<div class=\"gtx-trans-icon\">&nbsp;</div>\r\n</div>\r\n"
+            }
+        ],
+        "startTime": 1654507464,
+        "startTimeSection": 1654507609,
+        "timeServer": 1654507611,
+        "totalOptionQuestion": 2,
+        "totalQuestion": 2,
+        "typeSection": 3,
+        "urlMedia": "",
+        "fileAnswerUser": "https://s3-ap-southeast-1.amazonaws.com/onluyen-assignment-submission/ielts/answer/6160fcdd3a082706e7007f69/6160fe323a082706e700800b/61653da68e10ce04e02e948c/writing.json",
+        "preSignedUrlAnswerUser": "https://onluyen-assignment-submission.s3.ap-southeast-1.amazonaws.com/ielts/answer/6160fcdd3a082706e7007f69/6160fe323a082706e700800b/61653da68e10ce04e02e948c/writing.json?X-Amz-Expires=3840&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARNHFJRUSPDX4IUU6/20220606/ap-southeast-1/s3/aws4_request&X-Amz-Date=20220606T092651Z&X-Amz-SignedHeaders=content-type;host&X-Amz-Signature=a6662577f941f42dc49dfc936840903fc263397ff8b818c198037200acf78f8a",
+        "isEnable": false
+    },
+    "totalRecords": 0,
+    "message": null,
+    "status": 1
+}

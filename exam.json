@@ -1,0 +1,198 @@
+{
+    "data": {
+        "author": "linhnvt@edmicro.vn",
+        "data": [
+            {
+                "duration": 150,
+                "groupId": "6160fcdd3a082706e7007f69",
+                "ieltsId": "6160fd8d3a082706e7007f8c",
+                "name": "Set 3 - Test 11",
+                "idLog": "6169529f45598c0b530f0cda",
+                "sectionListening": {
+                    "duration": 30,
+                    "ieltsId": "6160fd8d3a082706e7007f8c",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 11,
+                    "type": 1
+                },
+                "sectionReading": {
+                    "duration": 60,
+                    "ieltsId": "6160fd8d3a082706e7007f8c",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 18,
+                    "type": 2
+                },
+                "sectionWriting": {
+                    "duration": 60,
+                    "ieltsId": "6160fd8d3a082706e7007f8c",
+                    "status": 1,
+                    "totalOptionQuestion": 1,
+                    "totalQuestion": 2,
+                    "type": 3
+                },
+                "status": 1,
+                "statusIELTS": 2,
+                "subjectId": "IELTS",
+                "totalQuestion": 82,
+                "typeSectionNow": 3,
+                "thumbnail": null
+            },
+            {
+                "duration": 150,
+                "groupId": "6160fcdd3a082706e7007f69",
+                "ieltsId": "6160fdba3a082706e7007fc3",
+                "name": "Set 3 - Test 12",
+                "idLog": "616659b13956a3a72adbc449",
+                "sectionListening": {
+                    "duration": 30,
+                    "ieltsId": "6160fdba3a082706e7007fc3",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 13,
+                    "type": 1
+                },
+                "sectionReading": {
+                    "duration": 60,
+                    "ieltsId": "6160fdba3a082706e7007fc3",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 16,
+                    "type": 2
+                },
+                "sectionWriting": {
+                    "duration": 60,
+                    "ieltsId": "6160fdba3a082706e7007fc3",
+                    "status": 2,
+                    "totalOptionQuestion": 0,
+                    "totalQuestion": 2,
+                    "type": 3
+                },
+                "status": 2,
+                "statusIELTS": 2,
+                "subjectId": "IELTS",
+                "totalQuestion": 82,
+                "typeSectionNow": null,
+                "thumbnail": null
+            },
+            {
+                "duration": 150,
+                "groupId": "6160fcdd3a082706e7007f69",
+                "ieltsId": "6160fdef3a082706e7007fdb",
+                "name": "Set 3 - Test 13",
+                "idLog": "6163bb6b6473189ebfe9d8c7",
+                "sectionListening": {
+                    "duration": 30,
+                    "ieltsId": "6160fdef3a082706e7007fdb",
+                    "status": 1,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 13,
+                    "type": 1
+                },
+                "sectionReading": {
+                    "duration": 60,
+                    "ieltsId": "6160fdef3a082706e7007fdb",
+                    "status": 0,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 15,
+                    "type": 2
+                },
+                "sectionWriting": {
+                    "duration": 60,
+                    "ieltsId": "6160fdef3a082706e7007fdb",
+                    "status": 0,
+                    "totalOptionQuestion": 2,
+                    "totalQuestion": 2,
+                    "type": 3
+                },
+                "status": 1,
+                "statusIELTS": 2,
+                "subjectId": "IELTS",
+                "totalQuestion": 82,
+                "typeSectionNow": 1,
+                "thumbnail": null
+            },
+            {
+                "duration": 150,
+                "groupId": "6160fcdd3a082706e7007f69",
+                "ieltsId": "6160fe323a082706e700800b",
+                "name": "Set 3 - Test 14",
+                "idLog": "61653da68e10ce04e02e948c",
+                "sectionListening": {
+                    "duration": 30,
+                    "ieltsId": "6160fe323a082706e700800b",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 11,
+                    "type": 1
+                },
+                "sectionReading": {
+                    "duration": 60,
+                    "ieltsId": "6160fe323a082706e700800b",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 11,
+                    "type": 2
+                },
+                "sectionWriting": {
+                    "duration": 60,
+                    "ieltsId": "6160fe323a082706e700800b",
+                    "status": 2,
+                    "totalOptionQuestion": 2,
+                    "totalQuestion": 2,
+                    "type": 3
+                },
+                "status": 2,
+                "statusIELTS": 2,
+                "subjectId": "IELTS",
+                "totalQuestion": 82,
+                "typeSectionNow": null,
+                "thumbnail": null
+            },
+            {
+                "duration": 150,
+                "groupId": "6160fcdd3a082706e7007f69",
+                "ieltsId": "6160fe613a082706e7008028",
+                "name": "Set 3 - Test 15",
+                "idLog": "6163b6ae6473189ebfe9d871",
+                "sectionListening": {
+                    "duration": 30,
+                    "ieltsId": "6160fe613a082706e7008028",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 11,
+                    "type": 1
+                },
+                "sectionReading": {
+                    "duration": 60,
+                    "ieltsId": "6160fe613a082706e7008028",
+                    "status": 2,
+                    "totalOptionQuestion": 40,
+                    "totalQuestion": 17,
+                    "type": 2
+                },
+                "sectionWriting": {
+                    "duration": 60,
+                    "ieltsId": "6160fe613a082706e7008028",
+                    "status": 2,
+                    "totalOptionQuestion": 2,
+                    "totalQuestion": 2,
+                    "type": 3
+                },
+                "status": 2,
+                "statusIELTS": 2,
+                "subjectId": "IELTS",
+                "totalQuestion": 82,
+                "typeSectionNow": null,
+                "thumbnail": null
+            }
+        ],
+        "groupId": "6160fcdd3a082706e7007f69",
+        "name": "Set 3 Academic",
+        "totalIELTS": 5
+    },
+    "totalRecords": 0,
+    "message": null,
+    "status": 1
+}

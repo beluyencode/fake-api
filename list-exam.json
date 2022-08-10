@@ -1,0 +1,139 @@
+{
+    "data": [
+        {
+            "id": "60cc252f1f5db55587d9efea",
+            "listCodeApp": [
+                "IELTS"
+            ],
+            "level": null,
+            "name": "Free trial",
+            "totalIELTS": 1,
+            "isAccess": true,
+            "typeExam": 1,
+            "status": 2
+        },
+        {
+            "id": "60cc275a1f5db55587d9f0ce",
+            "listCodeApp": [
+                "IELTS"
+            ],
+            "level": null,
+            "name": "Free trial",
+            "totalIELTS": 1,
+            "isAccess": true,
+            "typeExam": 2,
+            "status": 2
+        },
+        {
+            "id": "606194cd530db3dfd0f10035",
+            "listCodeApp": [
+                "ONLUYEN",
+                "SCHOOL",
+                "IELTS",
+                "IELTS-MOBIEDU"
+            ],
+            "level": null,
+            "name": "Set 1 Academic",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 1,
+            "status": 2
+        },
+        {
+            "id": "60652d548553328e5eb5a93d",
+            "listCodeApp": [
+                "ONLUYEN",
+                "SCHOOL",
+                "IELTS",
+                "IELTS-MOBIEDU"
+            ],
+            "level": null,
+            "name": "Set 2 Academic",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 1,
+            "status": 2
+        },
+        {
+            "id": "6160fcdd3a082706e7007f69",
+            "listCodeApp": [
+                "ONLUYEN",
+                "SCHOOL",
+                "IELTS",
+                "IELTS-MOBIEDU"
+            ],
+            "level": null,
+            "name": "Set 3 Academic",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 1,
+            "status": 2
+        },
+        {
+            "id": "6160ffcb3a082706e7008101",
+            "listCodeApp": [
+                "ONLUYEN",
+                "SCHOOL",
+                "IELTS",
+                "IELTS-MOBIEDU"
+            ],
+            "level": null,
+            "name": "Set 4 Academic",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 1,
+            "status": 2
+        },
+        {
+            "id": "606c32a3b75b5f84f20ecb1a",
+            "listCodeApp": [
+                "IELTS"
+            ],
+            "level": null,
+            "name": "Set 1 General",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 2,
+            "status": 2
+        },
+        {
+            "id": "606d7864b75b5f84f20f5efd",
+            "listCodeApp": [
+                "IELTS"
+            ],
+            "level": null,
+            "name": "Set 2 General",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 2,
+            "status": 2
+        },
+        {
+            "id": "616103fe3a082706e700859f",
+            "listCodeApp": [
+                "IELTS"
+            ],
+            "level": null,
+            "name": "Set 3 General",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 2,
+            "status": 2
+        },
+        {
+            "id": "61610b6b3a082706e7008a98",
+            "listCodeApp": [
+                "IELTS"
+            ],
+            "level": null,
+            "name": "Set 4 General",
+            "totalIELTS": 5,
+            "isAccess": true,
+            "typeExam": 2,
+            "status": 2
+        }
+    ],
+    "totalRecords": 0,
+    "message": null,
+    "status": 1
+}
