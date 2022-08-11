@@ -12,6 +12,8 @@ const currentLesson = require('./currentLesson');
 const lessonNotes = require('./lessonNotes');
 const notificationList = require('./notification-list');
 const HolidayCalendar = require('./HolidayCalendar');
+const StudyManagement = require('./StudyManagement');
+const e = require('express');
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json())
@@ -242,6 +244,16 @@ app.get('/holiday-calendar', (req, res) => {
   res.json(HolidayCalendar);
 })
 
+app.get('/study-management', (req, res) => {
+  const a = [...StudyManagement].map(ele => {
+    return (({ studyProgram, ...o }) => o)(ele);
+  })
+  res.json(a);
+})
+
+app.get('/study-management/:id', (req, res) => {
+  res.json(StudyManagement[req.params.id].studyProgram);
+})
 
 
 
