@@ -11,6 +11,7 @@ const listCLass = require('./listCLass');
 const currentLesson = require('./currentLesson');
 const lessonNotes = require('./lessonNotes');
 const notificationList = require('./notification-list');
+const HolidayCalendar = require('./HolidayCalendar');
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json())
@@ -235,33 +236,13 @@ app.get('/notice-form', (req, res) => {
     },
 
   ]);
+})
 
+app.get('/holiday-calendar', (req, res) => {
+  res.json(HolidayCalendar);
 })
 
 
-// app.get('/list-exam/exam', (req, res) =>{
-//   res.json(examJson);
-// })
-
-// app.get('/list-exam/exam/ielts', (req, res) =>{
-//   res.json(ieltsJson);
-// })
-
-// app.get('/list-exam/exam/ielts/start', (req, res) => {
-//   res.json(startExamJson);
-// })
-// app.get('/list-exam/exam/ielts/exam/:id', (req, res) => {
-//   console.log(req.params.id); 
-//   if (req.params.id == 1) {
-//     res.json(exam1);
-//   }
-//   if (req.params.id == 2) {
-//     res.json(exam2);
-//   }
-//   if (req.params.id == 3) {
-//     res.json(exam3);
-//   }
-// })
 
 
 app.listen(port, () => {
