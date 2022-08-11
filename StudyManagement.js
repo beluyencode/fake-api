@@ -976,7 +976,7 @@ module.exports = [
     {
         name: 'Gia sư toán 1-1',
         subject: 'Văn',
-        class: ['6', '7', '8', '9'],
+        class: ['1', '7', '8', '9'],
         totalLesson: '40',
         timeUpdate: '26/04/2020',
         show: false,
