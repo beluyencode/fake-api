@@ -2,7 +2,7 @@ module.exports = [
     {
         startTime: '4/30/2022',
         endTime: '01/05/2022',
-        branch: ['115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu'],
+        branch: ['115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu'],
         note: 'Quốc lễ'
     },
     {
@@ -86,7 +86,7 @@ module.exports = [
     {
         startTime: '4/30/2022',
         endTime: '01/05/2022',
-        branch: [],
+        branch: ['115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu'],
         note: 'Tết nguyên đán'
     },
     {
@@ -110,7 +110,7 @@ module.exports = [
     {
         startTime: '4/30/2022',
         endTime: '01/05/2022',
-        branch: ['115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu'],
+        branch: ['115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu', '115 Hoàng Quốc Việt, HN', 'Cơ sở 2 -  Tố Hữu'],
         note: 'Quốc lễ'
     },
     {
